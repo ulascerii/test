@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428002986206",
+    "project_id": "formula1-test-app",
+    "storage_bucket": "formula1-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428002986206:android:9dc774f7745e970d88da4f",
+        "android_client_info": {
+          "package_name": "com.aydemir.formula1app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428002986206-9m8gjirup604pe8ke62815p918j07a68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3es0M6JdwTEGnjU6KME55V-9NpANoRhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428002986206-9m8gjirup604pe8ke62815p918j07a68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
